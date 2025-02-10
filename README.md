@@ -7,3 +7,9 @@ Steps:
 2.After installing Open ollama in Powershell/CMD and start the deepseek instance 
   
   ![image](https://github.com/user-attachments/assets/9ac2a44d-e938-4a6b-bf37-9aeea7669b4e)
+  This step will take time depening on the system's memory specifications.
+
+Temperature ->0.3
+
+
+if you dont want thinking part you can use regex and remove the thinking part
