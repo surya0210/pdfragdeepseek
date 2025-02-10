@@ -1,7 +1,8 @@
 #Bujji
 Advanced RAG System
-This project implements an advanced Retrieval-Augmented Generation (RAG) system for PDF documents using LangChain, PyPDF, and Gradio. Upload PDFs, ask questions, and receive answers with relevant sources.
-Steps:
+This project implements an A-RAG system for PDF documents using LangChain, PyPDF, and Gradio. Upload PDFs, ask questions, and receive answers with relevant sources.
+
+**Steps:**
 
 1.Install Ollama https://ollama.com/download/windows
 
