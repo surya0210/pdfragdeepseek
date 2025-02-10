@@ -21,6 +21,7 @@ and kill the process if not necessary using the pid.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 Requirements:
+
 Python 3.8+
 Required packages:
   langchain
