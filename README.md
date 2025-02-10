@@ -20,6 +20,7 @@ If encountering errors kill PID by finding using
 and kill the process if not necessary using the pid.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
+
 Requirements:
 
 Python 3.8+
@@ -30,9 +31,13 @@ Required packages:
   pypdf
   gradio/streamlit
 -----------------------------------------------------------------------------------------------------------------------------------------------
+Constraints:
+  Temperature ->0.3
+
+and run the model using **python bujji.py**
 
 
-Temperature ->0.3
+if you don't want thinking part you can use regex and remove the thinking part.
 
+Happy Coding..
 
-if you dont want thinking part you can use regex and remove the thinking part
