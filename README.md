@@ -1,4 +1,4 @@
-**Bujji**
+**Bujji-For PDF**
 Advanced RAG System
 This project implements an A-RAG system for PDF documents using LangChain, PyPDF, and Gradio. Upload PDFs, ask questions, and receive answers with relevant sources.
 
